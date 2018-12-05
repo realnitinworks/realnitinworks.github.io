@@ -92,9 +92,18 @@ author:
   email: "nitin.cherian@gmail.com"
   twitter: "https://twitter.com/nitin_cherian"
   links:
-    - title:
-      url:
-      icon:
+    - title: Github
+      url: "https://github.com/realnitinworks"
+      icon: fab fa-github-square
+    - title: Twitter
+      url: "https://twitter.com/nitin_cherian"
+      icon: fab fa-twitter-square 
+    - title: Stackoverflow
+      url: "https://stackoverflow.com/users/1220250/nitin-cherian?tab=profile"
+      icon: fab fa-stack-overflow 
+    - title: Email
+      url: mailto:nitin.cherian@gmail.com
+      icon: fas fa-envelope-square
 
 # Footer Links
 footer_links:
